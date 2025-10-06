@@ -7,6 +7,7 @@ Short description: My learning path — notebooks, datasets, code and notes whil
 - `CleanedData/` - cleaned datasets produced during projects
 - `notebooks/` - Jupyter notebooks (week-by-week)
 - `Week_Value/` - Scripts for reusable processing of code i wrote each week
+- `Tutorial1` - Basic Introduction to show data
 
 ## Projects
 
