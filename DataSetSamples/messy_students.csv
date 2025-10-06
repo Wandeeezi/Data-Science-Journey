@@ -1,0 +1,11 @@
+ID,Name,Age,City,Marks,Enrolled,SignupDate
+101,Alice ,23,johannesburg,88.0,Yes,2025-01-05
+102, bob,25,Cape Town,75.0,YES,05/02/2025
+103,Charlie,twenty-two,Durban,93.0,Y,2025/03/10
+104,David,24,Pretoria ,68.0,No,2025-04-12
+105,Ella,21,Bloemfontein,,no,2025-05-01
+105,Ella,21,Bloemfontein,90.0,No,2025-05-01
+106,Fatima,,Johannesburg,85.0,yes,2025/06/20
+107,Gugu, 27,gauteng,101.0,Y,20-07-2025
+108,Hugo,29,Durban,47.0,N,2025/08/15
+109,Ian,24,Cape town,68.0,,2025/09/01

@@ -1,0 +1,9 @@
+ID,Name,Age,City,Marks,Enrolled,SignupDate,SignUpMonth
+101,Alice,23.0,Johannesburg,88.0,True,2025-01-05,1.0
+102,Bob,25.0,Cape Town,75.0,True,,
+103,Charlie,24.5,Durban,93.0,True,,
+104,David,24.0,Pretoria,68.0,False,2025-04-12,4.0
+106,Fatima,24.5,Johannesburg,85.0,True,,
+107,Gugu,27.0,Gauteng,100.0,True,,
+108,Hugo,29.0,Durban,47.0,False,,
+109,Ian,24.0,Cape Town,68.0,False,,
