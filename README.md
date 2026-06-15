@@ -7,7 +7,7 @@ A collection of notebooks and projects completed while developing my data scienc
 ### Kaggle
 - `Personal_Interest_Notebooks/` - Projects based on topics I find interesting and want to explore further.
 - `Finance_Notebooks/` - Finance, banking, investing, risk, and quantitative analysis projects.
-- `Complete_Notebooks/` - Fully completed projects with documented methodology, analysis, and conclusions.
+- `Portfolio_Projects/` - Fully completed projects with documented methodology, analysis, and conclusions.
 
 ## Projects
 
