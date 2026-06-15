@@ -1,22 +1,36 @@
-# Data-Science-Journey
+# Data Science Journey
 
-Short description: My learning path — notebooks, datasets, code and notes while I build data skills.
+A collection of notebooks and projects completed while developing my data science, analytics, and quantitative modelling skills.
 
 ## Structure
-- `DataSetSamples/` - original dataset samples
-- `CleanedData/` - cleaned datasets produced during projects
-- `notebooks/` - Jupyter notebooks (week-by-week)
-- `Week_Value/` - Scripts for reusable processing of code i wrote each week
-- `Tutorial1` - Basic Introduction to show data
+
+### Kaggle
+- `Personal_Interest_Notebooks/` - Projects based on topics I find interesting and want to explore further.
+- `Finance_Notebooks/` - Finance, banking, investing, risk, and quantitative analysis projects.
+- `Complete_Notebooks/` - Fully completed projects with documented methodology, analysis, and conclusions.
 
 ## Projects
 
-### Week 1 — Data Cleaning
-- `Week_1/MessyStudentsCleaning.ipynb`: cleaned `messy_students.csv` → `data/processed/messy_students_cleaned.csv`
-- Key techniques: `.drop_duplicates()`, `pd.to_numeric(..., errors='coerce')`, `fillna()`, `pd.to_datetime()`
+### 1. Messy Students Data Cleaning
+**Objective:** Clean and prepare a messy student dataset for analysis.
 
-## How to run
-1. Clone:
-```bash
-git clone https://github.com/Wandeeezi/Data-Science-Journey.git
-cd Journey_to_Data_Science
+**Skills Used:**
+- Data Cleaning
+- Missing Value Handling
+- Data Type Conversion
+- Duplicate Removal
+
+**Techniques:**
+- `drop_duplicates()`
+- `fillna()`
+- `to_numeric()`
+- `to_datetime()`
+
+## Goals
+
+This repository documents my journey as I develop practical skills in:
+- Data Analysis
+- Data Visualization
+- Machine Learning
+- Financial Analytics
+- Quantitative Modelling
